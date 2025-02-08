@@ -22,5 +22,5 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
 app.use('/',(req,res)=>{
-    res.send("<h1>im thulsii</h1>")
+    res.send("<h1>WEOLCOME TO LASSY</h1>")
 })
