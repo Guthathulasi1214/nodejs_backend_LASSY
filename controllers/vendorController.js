@@ -41,6 +41,8 @@ const vendorLogin=async(req,res)=>{
     } catch (error) {
         console.log(email);
         console.log(password);
+        console.error(error);
+        
         
         
     }
